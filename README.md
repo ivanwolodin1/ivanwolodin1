@@ -14,7 +14,7 @@
 ---
 
 ### 🛠 My (surviving) tech stack:
-- **Backend:** Python (sometimes friend, sometimes foe)  
+- **Backend:** Python, FastAPI, sqlmodel (sometimes friend, sometimes foe)  
 - **Frontend:** JS, ReactJS (just enough to be dangerous)  
 - **Science:** NumPy, Matplotlib, C++ (with no harsh stuff) a couple of wild equations and lots of hope  
 
