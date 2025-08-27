@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍🔬 About me
-- Currently working as a **researcher**, writing my **PhD thesis** (and yes, coffee is my co-author ☕)  
+- Currently working as a **researcher**, writing my **PhD thesis** (The samurai has only the path 😢)  
 - Former **backend developer**, with a sprinkle of frontend adventures  
 - (Trying to!) build a bridge between **LBM (Lattice Boltzmann Method)** and **thin film dynamics modeling**  
 
