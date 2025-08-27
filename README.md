@@ -2,7 +2,7 @@
 
 ![Funny Cat Scientist](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDV0ZzJ5bHZ1b2U5bnJmM2s0eGRwdWx1dWRyYzdoeXZwdXgxaDdoNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
 
-*Researcher by day, ~~superhero~~ PhD student by night!*  
+*Researcher by day, ~~superhero~~ software developer by night!*  
 
 ---
 
