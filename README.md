@@ -29,7 +29,7 @@
 ### 🎢 Fun facts:
 - I write code and papers at about the same speed: **slowly, but with tears of joy**  
 - Love it when simulations work; **hate it** when NaN appear  
-- Firm believer that **LBM is magic and thin films are art**  
+- Scientifically speaking, **LBM** often *feels* like magic, and **thin films** are nothing short of *art*.
 
 ---
 
