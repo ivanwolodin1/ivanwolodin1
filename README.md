@@ -21,7 +21,7 @@
 ---
 
 ### 📊 Some stats & magic
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanwolodin1&show_icons=true&theme=tokyonight)  
+<!---![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanwolodin1&show_icons=true&theme=tokyonight)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwolodin1&layout=compact&theme=tokyonight)  
 
 ---
