@@ -33,4 +33,4 @@
 
 ---
 
-> *If I’m offline, I’m probably lost somewhere between Navier–Stokes equations and another cup of coffee.*
+> *If I’m offline, I’m probably lost somewhere between NS equation and another cup of coffee.*
