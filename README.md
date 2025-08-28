@@ -14,9 +14,20 @@
 ---
 
 ### 🛠 My (surviving) tech stack:
-- **Backend:** Python, FastAPI, sqlmodel (sometimes friend, sometimes foe)  
+- **Backend:** Python, FastAPI, sqlmodel 
 - **Frontend:** JS, ReactJS (just enough to be dangerous)  
-- **Science:** NumPy, Matplotlib, C++ (with no harsh stuff) a couple of wild equations and lots of hope  
+- **Science:** C++ (with no harsh stuff), NumPy, Matplotlib, Fortran (hi olds!) a couple of wild equations and lots of hope  
+
+---
+
+### 📚 Selected Publications
+- **Volodin, I., Alabuzhev, A.** *Mass Transfer Simulation In An Inclined Two-Layer Porous Channel By The Lattice Boltzmann Method.* Microgravity Sci. Technol. 37, 47 (2025). [https://doi.org/10.1007/s12217-025-10200-9](https://doi.org/10.1007/s12217-025-10200-9)
+
+- **Volodin, I. V., Alabuzhev, A. A.** *Numerical simulation of the flow in a two-layer porous channel by the lattice Boltzmann method.* Bulletin of Perm University. Physics, 2025, no. 1, pp. 52–62. [https://doi.org/10.17072/1994-3598-2025-1-52-62](https://doi.org/10.17072/1994-3598-2025-1-52-62)
+
+- **Alabuzhev, A., Volodin, I.** *Linear Instability of Forced Oscillations of a Thin Ferrofluid Film in a Vertical Magnetic Field.* Microgravity Sci. Technol. 34, 91 (2022). [https://doi.org/10.1007/s12217-022-10014-z](https://doi.org/10.1007/s12217-022-10014-z)
+
+- **Volodin, I. V., Alabuzhev, A. A.** *Frozen wave simulation by the lattice Boltzmann method.* Bulletin of Perm University. Physics, 2021, no. 1, pp. 59–68. [https://doi.org/10.17072/1994-3598-2021-1-59-68](https://doi.org/10.17072/1994-3598-2021-1-59-68)
 
 ---
 
