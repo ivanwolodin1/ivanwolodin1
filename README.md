@@ -9,7 +9,8 @@
 ### 👨‍🔬 About me
 - Currently working as a **researcher**, writing my **PhD thesis** (The samurai has only the path 😢)  
 - Former **backend developer**, with a sprinkle of frontend adventures  
-- (Trying to!) build a bridge between **LBM (Lattice Boltzmann Method)** and **thin film dynamics modeling**  
+- (Trying to!) build a bridge between **LBM (Lattice Boltzmann Method)** and **thin film dynamics modeling**
+- **FIDE Master (FM) in chess** — applying strategic thinking and discipline from the board to science.
 
 ---
 
