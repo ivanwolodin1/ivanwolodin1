@@ -22,6 +22,8 @@
 ---
 
 ### 📚 Selected Publications
+- **Volodin, I., Alabuzhev, A.** *Linear Stability of Marangoni Convection in a Thin Film under Vertical Vibrations.* Microgravity Sci. Technol. 37, 48 (2025). [https://doi.org/10.1007/s12217-025-10201-8](https://doi.org/10.1007/s12217-025-10201-8)
+
 - **Volodin, I., Alabuzhev, A.** *Mass Transfer Simulation In An Inclined Two-Layer Porous Channel By The Lattice Boltzmann Method.* Microgravity Sci. Technol. 37, 47 (2025). [https://doi.org/10.1007/s12217-025-10200-9](https://doi.org/10.1007/s12217-025-10200-9)
 
 - **Volodin, I. V., Alabuzhev, A. A.** *Numerical simulation of the flow in a two-layer porous channel by the lattice Boltzmann method.* Bulletin of Perm University. Physics, 2025, no. 1, pp. 52–62. [https://doi.org/10.17072/1994-3598-2025-1-52-62](https://doi.org/10.17072/1994-3598-2025-1-52-62)
