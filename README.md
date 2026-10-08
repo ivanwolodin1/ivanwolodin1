@@ -1,50 +1,39 @@
-## Hi there 👋
+# Ivan Volodin
 
-<!---![Funny Cat Scientist](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDV0ZzJ5bHZ1b2U5bnJmM2s0eGRwdWx1dWRyYzdoeXZwdXgxaDdoNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)-->
+PhD candidate and researcher in computational fluid dynamics. Former backend developer.
 
-*Researcher by day, ~~superhero~~ software developer by night!*  
+## About
 
----
+I am a researcher currently writing my PhD thesis. My work focuses on modeling thin liquid films and interfacial dynamics, with the Lattice Boltzmann Method (LBM) as the main numerical tool. Earlier in my career, I worked as a backend developer, with some frontend experience.
 
-### 👨‍🔬 About me
-- Currently working as a **researcher**, writing my **PhD thesis** (The samurai has only the path 😢)  
-- Former **backend developer**, with a sprinkle of frontend adventures  
-- (Trying to!) build a bridge between **LBM (Lattice Boltzmann Method)** and **thin film dynamics modeling**
-- **FIDE Master (FM) in chess** — applying strategic thinking and discipline from the board to science.
+Outside of research, I am a FIDE Master (FM) in chess.
 
----
+## Research interests
 
-### 🛠 My (surviving) tech stack:
-- **Backend:** Python, FastAPI, sqlmodel 
-- **Frontend:** JS, ReactJS (just enough to be dangerous)  
-- **Science:** C++ (with no harsh stuff), NumPy, Matplotlib, little Fortran (hi olds!), a couple of wild equations and lots of hope  
+- Lattice Boltzmann Method
+- Thin film dynamics and Marangoni convection
+- Vibration-induced interfacial phenomena
+- Flow and mass transfer in porous media
+- Ferrofluid films in magnetic fields
 
----
+## Technical skills
 
-### 📚 Selected Publications
-- **Volodin, I., Alabuzhev, A.** *Linear Stability of Marangoni Convection in a Thin Film under Vertical Vibrations.* Microgravity Sci. Technol. 37, 48 (2025). [https://doi.org/10.1007/s12217-025-10201-8](https://doi.org/10.1007/s12217-025-10201-8)
+- **Scientific computing:** C++, Python (NumPy, Matplotlib), Fortran (basic)
+- **Backend:** Python, FastAPI, SQLModel
+- **Frontend:** JavaScript, React
 
-- **Volodin, I., Alabuzhev, A.** *Mass Transfer Simulation In An Inclined Two-Layer Porous Channel By The Lattice Boltzmann Method.* Microgravity Sci. Technol. 37, 47 (2025). [https://doi.org/10.1007/s12217-025-10200-9](https://doi.org/10.1007/s12217-025-10200-9)
+## Selected publications
 
-- **Volodin, I. V., Alabuzhev, A. A.** *Numerical simulation of the flow in a two-layer porous channel by the lattice Boltzmann method.* Bulletin of Perm University. Physics, 2025, no. 1, pp. 52–62. [https://doi.org/10.17072/1994-3598-2025-1-52-62](https://doi.org/10.17072/1994-3598-2025-1-52-62)
+- Volodin, I. V., Alabuzhev, A. A. *Lattice Boltzmann simulation of interfacial dynamics induced by vertical vibrational force.* Physics of Fluids, 38 (9), 092135 (2026). [https://doi.org/10.1063/5.0336810](https://doi.org/10.1063/5.0336810)
 
-- **Alabuzhev, A., Volodin, I.** *Linear Instability of Forced Oscillations of a Thin Ferrofluid Film in a Vertical Magnetic Field.* Microgravity Sci. Technol. 34, 91 (2022). [https://doi.org/10.1007/s12217-022-10014-z](https://doi.org/10.1007/s12217-022-10014-z)
+- Volodin, I., Alabuzhev, A. *Averaged Dynamics of Marangoni Convection in a Thin Liquid Film Under Vertical Vibrations.* Microgravity Sci. Technol. 38, 70 (2026). [https://doi.org/10.1007/s12217-026-10289-6](https://doi.org/10.1007/s12217-026-10289-6)
 
-- **Volodin, I. V., Alabuzhev, A. A.** *Frozen wave simulation by the lattice Boltzmann method.* Bulletin of Perm University. Physics, 2021, no. 1, pp. 59–68. [https://doi.org/10.17072/1994-3598-2021-1-59-68](https://doi.org/10.17072/1994-3598-2021-1-59-68)
+- Volodin, I., Alabuzhev, A. *Linear Stability of Marangoni Convection in a Thin Film under Vertical Vibrations.* Microgravity Sci. Technol. 37, 48 (2025). [https://doi.org/10.1007/s12217-025-10201-8](https://doi.org/10.1007/s12217-025-10201-8)
 
----
+- Volodin, I., Alabuzhev, A. *Mass Transfer Simulation In An Inclined Two-Layer Porous Channel By The Lattice Boltzmann Method.* Microgravity Sci. Technol. 37, 47 (2025). [https://doi.org/10.1007/s12217-025-10200-9](https://doi.org/10.1007/s12217-025-10200-9)
 
-### 📊 Some stats
-<!---![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanwolodin1&show_icons=true&theme=tokyonight)  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwolodin1&layout=compact&theme=tokyonight&v=2)  
+- Volodin, I. V., Alabuzhev, A. A. *Numerical simulation of the flow in a two-layer porous channel by the lattice Boltzmann method.* Bulletin of Perm University. Physics, 2025, no. 1, pp. 52–62. [https://doi.org/10.17072/1994-3598-2025-1-52-62](https://doi.org/10.17072/1994-3598-2025-1-52-62)
 
----
+- Alabuzhev, A., Volodin, I. *Linear Instability of Forced Oscillations of a Thin Ferrofluid Film in a Vertical Magnetic Field.* Microgravity Sci. Technol. 34, 91 (2022). [https://doi.org/10.1007/s12217-022-10014-z](https://doi.org/10.1007/s12217-022-10014-z)
 
-### 🎢 Fun facts:
-- I write code and papers at about the same speed: **slowly, but with tears of joy**  
-- Love it when simulations work; **hate it** when NaN appear  
-- Scientifically speaking, **LBM** often *feels* like magic, and **thin films** are nothing short of *art*.
-
----
-
-> *If I’m offline, I’m probably lost somewhere between NS equation and another cup of coffee.*
+- Volodin, I. V., Alabuzhev, A. A. *Frozen wave simulation by the lattice Boltzmann method.* Bulletin of Perm University. Physics, 2021, no. 1, pp. 59–68. [https://doi.org/10.17072/1994-3598-2021-1-59-68](https://doi.org/10.17072/1994-3598-2021-1-59-68)
